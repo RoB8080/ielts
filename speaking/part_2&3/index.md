@@ -8,7 +8,8 @@
 - [Location](#location)
 
 ## Character
-- [A Person Goot at Work](./character/a-person-good-at-work.md)
+- [A person goot at work](./character/a-person-good-at-work.md)
+- [Someone you would like to work with](./character/someone-you-would-like-to-study-or-work-with.md)
   
 [🔝 Back to Top](#lists) 
 ## Object
@@ -18,5 +19,7 @@
 
 [🔝 Back to Top](#lists)
 ## Location
+- [A place where you read and write](./location/a-place-where-you-read-and-write.md)
+- - [A school you went to in your childhood](./location/a-school-you-went-to-in-your-childhoode.md)
 
 [🔝 Back to Top](#lists)
