@@ -4,7 +4,7 @@
 Research into new types of medicine and treatments are essential for improving health and dealing with disease. Who do you think should fund these researches: private companies, individuals or governments?
 
 ## Article
-Nowdays, as the medical science developing, more and more medicine and treatments are invented. But it's not enough. There are still lots of people suffer from the illness which have no method to cure or even just slightly relieve. Researches of new types of medicine and tretments need investments, and the problem is who should fund these researches. In my opinion, private companies and governments should fund these researches.
+Nowdays, as the medical science developing, more and more medicine and treatments are invented. But it's not enough. There are still lots of people who suffer from the illness which have no method to cure or relieve. Researches of new types of medicine and tretments need investments, and the problem is who should fund these researches. In my opinion, private companies and governments should fund these researches.
 
 Firstly, for the common dieases. Such as different kinds of cancer, they are the no.1 killer nowadays. For the private companies, if they can manage to develope a new medicine or treatment, they can definitly earn plenty of money which make their investment worthy.
 
